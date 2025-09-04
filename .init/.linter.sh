@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/shopping-link-organizer-73985-73994/shopping_links_frontend
+flutter analyze
+
