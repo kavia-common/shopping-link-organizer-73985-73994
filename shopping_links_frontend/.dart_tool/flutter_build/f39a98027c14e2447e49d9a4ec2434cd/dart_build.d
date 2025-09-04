@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/shopping-link-organizer-73985-73994/shopping_links_frontend/.dart_tool/flutter_build/f39a98027c14e2447e49d9a4ec2434cd/dart_build_result.json: 
